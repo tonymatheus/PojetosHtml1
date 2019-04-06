@@ -1,0 +1,30 @@
+body{
+    font-family: verdana;
+    font-size: 100%;
+}
+
+form{
+    margin: auto;
+    width: 300px;
+    padding: 20px;
+    background-color: #172367;
+    text-align: center;
+    color: #fff;
+        
+}
+.campo{
+    width: 200px;
+    height: 25px;
+    border-radius: 3px;
+}
+a{
+    color: #fff;
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    border: 1px solid #ddd;
+    
+    
+}
